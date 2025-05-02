@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/coding/CPP/OPENGL/JBEngine/CMakeFiles/cmake.verify_globs
+C:/coding/CPP/OPENGL/JBEngine/thirdparty/glfw-3.4/CMake/glfw3.pc.in
+C:/coding/CPP/OPENGL/JBEngine/thirdparty/glfw-3.4/src/CMakeLists.txt

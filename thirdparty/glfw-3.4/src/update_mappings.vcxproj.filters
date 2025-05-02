@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\coding\CPP\OPENGL\JBEngine\CMakeFiles\2cc7f647564abfa9f43ec93a72533757\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\coding\CPP\OPENGL\JBEngine\thirdparty\glfw-3.4\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\coding\CPP\OPENGL\JBEngine\thirdparty\glfw-3.4\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\coding\CPP\OPENGL\JBEngine\thirdparty\glfw-3.4\CMake\GenerateMappings.cmake" />
+    <None Include="C:\coding\CPP\OPENGL\JBEngine\thirdparty\glfw-3.4\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8B7213C4-AC25-3C9B-9106-235C036F92CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{869C5277-9B21-3803-87F4-B99C66810F2F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+C:/coding/CPP/OPENGL/JBEngine/CMakeFiles/my_opengl_app.dir
+C:/coding/CPP/OPENGL/JBEngine/CMakeFiles/edit_cache.dir
+C:/coding/CPP/OPENGL/JBEngine/CMakeFiles/rebuild_cache.dir
+C:/coding/CPP/OPENGL/JBEngine/thirdparty/glfw-3.4/CMakeFiles/edit_cache.dir
+C:/coding/CPP/OPENGL/JBEngine/thirdparty/glfw-3.4/CMakeFiles/rebuild_cache.dir
+C:/coding/CPP/OPENGL/JBEngine/thirdparty/glfw-3.4/src/CMakeFiles/glfw.dir
+C:/coding/CPP/OPENGL/JBEngine/thirdparty/glfw-3.4/src/CMakeFiles/update_mappings.dir
+C:/coding/CPP/OPENGL/JBEngine/thirdparty/glfw-3.4/src/CMakeFiles/edit_cache.dir
+C:/coding/CPP/OPENGL/JBEngine/thirdparty/glfw-3.4/src/CMakeFiles/rebuild_cache.dir
+C:/coding/CPP/OPENGL/JBEngine/thirdparty/glad/CMakeFiles/glad.dir
+C:/coding/CPP/OPENGL/JBEngine/thirdparty/glad/CMakeFiles/edit_cache.dir
+C:/coding/CPP/OPENGL/JBEngine/thirdparty/glad/CMakeFiles/rebuild_cache.dir
+C:/coding/CPP/OPENGL/JBEngine/thirdparty/glm/CMakeFiles/edit_cache.dir
+C:/coding/CPP/OPENGL/JBEngine/thirdparty/glm/CMakeFiles/rebuild_cache.dir
+C:/coding/CPP/OPENGL/JBEngine/thirdparty/imgui/CMakeFiles/imgui.dir
+C:/coding/CPP/OPENGL/JBEngine/thirdparty/imgui/CMakeFiles/edit_cache.dir
+C:/coding/CPP/OPENGL/JBEngine/thirdparty/imgui/CMakeFiles/rebuild_cache.dir
