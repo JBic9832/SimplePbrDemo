@@ -14,7 +14,7 @@
 6. Open the application that now resides in the build folder
 
 # Controls
-WASD - Move around
-Mouse Look
-Escape - Unlock cursor / Lock cursor
-To exit unlock the cursor and hit the windows X
+- <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> to move around
+- Mouse to look 
+- Escape - Unlock cursor / Lock cursor
+- To exit: unlock the cursor and hit the windows X
