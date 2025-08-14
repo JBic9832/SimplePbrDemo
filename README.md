@@ -3,7 +3,6 @@
 - CMake (REQUIRED)
 - GNU Make
 - MinGW
-- WINDOWS
 
 ### Process
 1. Clone this github repo
