@@ -1,4 +1,4 @@
-#include "SkyBox.h"
+#include "Skybox.h"
 
 #include "stb_image.h"
 #include <iostream>
